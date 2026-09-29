@@ -1,10 +1,10 @@
 Config = {
-    MenuLanguage = 'en', -- Change the language of the menu here
+    MenuLanguage = 'pt', -- Change the language of the menu here
 
     EnableCancelKeybind = true,
     CancelEmoteKey = 'X',
 
-    MenuKeybindEnabled = true,
+    MenuKeybindEnabled = false,
     MenuKeybind = 'F4',
 
     Keybinding = true, -- If set to false, disables the use of Config.KeybindKeys
