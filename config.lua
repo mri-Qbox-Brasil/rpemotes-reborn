@@ -82,7 +82,7 @@ Config = {
     CrouchEnabled = true,
     CrouchKeybindEnabled = true,
     CrouchKeybind = 'LCONTROL',
-    CrouchOverrideStealthMode = false, -- If true, you won't enter stealth mode even if the crouch key and the 'duck' key are the same.
+    CrouchOverrideStealthMode = true, -- If true, you won't enter stealth mode even if the crouch key and the 'duck' key are the same.
     FpsMode = false, -- set this to true if you have first-person shooting to disable the ability to crouch and shoot in third-person
 
     -- Crawling
