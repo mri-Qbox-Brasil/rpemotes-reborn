@@ -1,8 +1,8 @@
 Config = {
     MenuLanguage = 'pt', -- Change the language of the menu here
 
-    EnableCancelKeybind = true,
-    CancelEmoteKey = 'F6',
+    EnableCancelKeybind = false,
+    CancelEmoteKey = 'X',
 
     MenuKeybindEnabled = false,
     MenuKeybind = 'F4',
